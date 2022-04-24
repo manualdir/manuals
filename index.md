@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ManualDir Pages
 
-You can use the [editor on GitHub](https://github.com/manualdir/manuals/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [manualdir](https://manualdir.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit our website [manualdir](https://manualdir.com/) to download the manuals you needs.
 
 ### Markdown
 
