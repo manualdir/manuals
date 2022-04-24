@@ -2,9 +2,25 @@
 
 You can visit our website [manualdir](https://manualdir.com/) to download the manuals you needs.
 
-### Markdown
+### Honeywell Manuals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can download all Honeywell Manuals here
+
+[Honeywell Manuals](https://manualdir.com/honeywell/)
+
+we just collect and publish one categories in the Honeywell Manuals you can find it here
+
+[Honeywell Thermostat Manuals](https://manualdir.com/honeywell/thermostat/)
+
+we will add more categories and product latter
+
+### HP Manuals
+
+You can download all HP Manuals here
+[HP Manuals](https://manualdir.com/hp/)
+we just collect and publish one categories in the Honeywell Manuals you can find it here
+[HP Printer Manuals](https://manualdir.com/hp/printer/)
+we will add more categories and product latter
 
 ```markdown
 Syntax highlighted code block
